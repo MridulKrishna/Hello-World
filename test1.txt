@@ -1,0 +1,3 @@
+This is just a test to see if I push this directory to git hub:
+1) Does it result in conflict issues?
+2) Do I need to have the files in the original git hub repository in the directory I want to push?
